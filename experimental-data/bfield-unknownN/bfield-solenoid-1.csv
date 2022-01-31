@@ -1,4 +1,4 @@
-relative_time,MagneticRotationSensor
+relative_time [ms],Bfield [microteslas]
 0,326.356925008824
 36,326.6345489254729
 103,327.4500513649629
